@@ -5,9 +5,9 @@
 
 Enrico Agostini-Marchese
 <br />
-CISQ 2019 : Voyage au Québec
+On the Move: narratives of travel, displacement and mobilities
 <br />
-Gênes - 2019/04/11
+Vancouver - 2019/10/25
 
 
 ![logo CRCEN](img/LogoENDT10-2016.png) <!-- .element: class="logo" style="width:30%; background-color:ghostwhite;padding: 5px" -->
